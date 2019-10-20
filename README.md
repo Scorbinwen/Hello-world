@@ -39,5 +39,18 @@ def foo():
 | 000001 | 42  |Yes
 | 000002 | 45  |No
 
+### Horizontal Rule
+---
+Above is a horizontal line
+
+### Line Break
+A line Here
+
+Another line.
+
+### Videos
+
+[![Elastix](https://github.com/Scorbinwen/Hello-world/tree/Feature/Videos/Elastix.gif)](https://github.com/Scorbinwen/Hello-world/tree/Feature/Videos/Elastix.mp4)
+
 
 
