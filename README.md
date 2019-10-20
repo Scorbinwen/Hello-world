@@ -6,19 +6,19 @@ Start a hello-word repository
 # This is a Header
 
 ### Emphasis
-*Italics  
-_Italics_   
-*Bold 
+* Italics  
+_Italics_  
++ Bold
 **Bold**  
-*Strike 
-~~Strike~~  
+- Strike  
+~~Strike~~
 
-### List  
-*Unordered List 
-*Ordered List 
-1.item1 
-2.item2 
-4.item3 
+### List
+* Unordered List
+* Ordered List
+1. item1
+2. item2
+4. item3
   
 ### Link  
 [Google Home Page](www.google.com)  
@@ -38,5 +38,6 @@ def foo():
 |--------|-----|---------|
 | 000001 | 42  |Yes
 | 000002 | 45  |No
+
 
 
