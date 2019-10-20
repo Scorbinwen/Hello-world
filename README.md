@@ -8,7 +8,7 @@ Start a hello-word repository
 ### Emphasis
 * Italics  
 _Italics_  
-+ Bold
++ Bold  
 **Bold**  
 - Strike  
 ~~Strike~~
