@@ -23,8 +23,8 @@ _Italics_
 ### Link  
 [Google Home Page](www.google.com)  
 
-### Image 
-![MRI vis](https://github.com/Scorbinwen/Hello-world/blob/Feature/Image/A2B_0033000.png)  
+### Image  
+![MRI vis](https://github.com/Scorbinwen/Hello-world/blob/Master/Image/A2B_0033000.png)  
 
 ### Code  
 ```Python
