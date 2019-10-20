@@ -52,5 +52,8 @@ Another line.
 
 [![Elastix](https://github.com/Scorbinwen/Hello-world/blob/master/Videos/Elastix.GIF)](https://github.com/Scorbinwen/Hello-world/blob/master/Videos/Elastix.mp4)
 
+### Interesting Discoveries
+1. Thanks to  github platform's robustness to renaming,i.e. even after you rename the repository name,the link to image or videos in our old-name repository still holds.Github  automatically turns the old-name link to new-name link.This mechanism  somewhat looks like  symbolic link.  
+2. However,the link to deleted-branch may fail after you rename the repository.I'm not sure why the link to deleted-branch stills holds if you don't rename the repository.
 
 
