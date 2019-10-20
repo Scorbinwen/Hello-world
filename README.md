@@ -24,7 +24,7 @@ _Italics_
 [Google Home Page](www.google.com)  
 
 ### Image  
-![MRI vis](https://github.com/Scorbinwen/Hello-world/blob/Master/Image/A2B_0033000.png)  
+![MRI vis](https://github.com/Scorbinwen/Hello-world/blob/master/Image/A2B_0033000.png)  
 
 ### Code  
 ```Python
